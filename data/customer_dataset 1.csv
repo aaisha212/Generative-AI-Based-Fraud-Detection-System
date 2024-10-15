@@ -1,0 +1,101 @@
+Customer ID,Name,Age,Location,Gender,Account Type,Device Count
+10001,Nimal Fernando,61,Jaffna,Female,Savings,5
+10002,Sunil Samarasinghe,60,Jaffna,Other,Current,3
+10003,Ruwan Jayasinghe,67,Galle,Other,Savings,1
+10004,Lakshan Perera,19,Anuradhapura,Female,Savings,5
+10005,Ruwan Kumara,52,Ratnapura,Other,Current,4
+10006,Sajith Weerasinghe,59,Batticaloa,Male,Fixed Deposit,3
+10007,Amaya Hettiarachchi,56,Negombo,Female,Savings,5
+10008,Chathura Kumara,37,Colombo,Other,Fixed Deposit,2
+10009,Kamal Dias,56,Galle,Male,Current,3
+10010,Amaya Dias,74,Ratnapura,Female,Savings,2
+10011,Nimal De Alwis,57,Anuradhapura,Other,Current,5
+10012,Amaya Jayasinghe,80,Anuradhapura,Other,Current,4
+10013,Kavindi Dias,76,Matara,Male,Fixed Deposit,3
+10014,Dilini De Alwis,51,Negombo,Male,Current,1
+10015,Amaya Rajapaksha,39,Ratnapura,Other,Current,4
+10016,Tharushi Hettiarachchi,38,Trincomalee,Female,Current,2
+10017,Sunil Jayasinghe,67,Colombo,Male,Fixed Deposit,4
+10018,Chathura Hettiarachchi,36,Ratnapura,Other,Savings,4
+10019,Nadeeka Weerasinghe,43,Kandy,Male,Current,1
+10020,Sarath De Alwis,25,Matara,Male,Savings,5
+10021,Sunil Perera,70,Ratnapura,Other,Fixed Deposit,1
+10022,Rashmi Rathnayake,28,Negombo,Female,Savings,5
+10023,Kamal Rathnayake,71,Batticaloa,Female,Fixed Deposit,2
+10024,Nadeeka Wijesinghe,37,Ratnapura,Other,Savings,2
+10025,Kavindi Dias,71,Kandy,Female,Fixed Deposit,2
+10026,Sarath De Alwis,53,Jaffna,Male,Current,4
+10027,Sarath Samarasinghe,53,Galle,Female,Fixed Deposit,5
+10028,Kavindi Dias,22,Batticaloa,Other,Fixed Deposit,4
+10029,Dilini Weerasinghe,18,Batticaloa,Female,Savings,2
+10030,Lakshan Rajapaksha,30,Negombo,Other,Savings,3
+10031,Dilini De Alwis,65,Galle,Male,Savings,4
+10032,Rashmi Jayasinghe,31,Colombo,Other,Fixed Deposit,4
+10033,Sunil De Alwis,48,Batticaloa,Other,Fixed Deposit,3
+10034,Kamal Gunawardena,32,Colombo,Other,Current,3
+10035,Chathura Wijesinghe,75,Matara,Male,Savings,1
+10036,Nimal Perera,70,Anuradhapura,Female,Fixed Deposit,3
+10037,Dilini Perera,65,Jaffna,Other,Savings,4
+10038,Dilshan Jayasinghe,43,Matara,Female,Savings,1
+10039,Nadeeka Dias,60,Kandy,Other,Current,1
+10040,Dilshan Silva,62,Batticaloa,Female,Fixed Deposit,5
+10041,Chathura Silva,66,Matara,Other,Savings,5
+10042,Kavindi Rathnayake,69,Negombo,Male,Current,1
+10043,Dilshan Silva,50,Jaffna,Female,Savings,3
+10044,Sajith Weerasinghe,22,Colombo,Other,Fixed Deposit,3
+10045,Sarath Hettiarachchi,37,Kandy,Other,Fixed Deposit,2
+10046,Chathura Dias,61,Trincomalee,Female,Savings,1
+10047,Dilshan De Alwis,49,Ratnapura,Female,Fixed Deposit,4
+10048,Lakshan Dias,60,Trincomalee,Male,Fixed Deposit,2
+10049,Tharushi Kumara,19,Ratnapura,Other,Savings,4
+10050,Ruwan Dias,62,Colombo,Male,Fixed Deposit,2
+10051,Tharushi Gunawardena,80,Colombo,Other,Fixed Deposit,2
+10052,Tharushi Hettiarachchi,36,Kandy,Female,Savings,8
+10053,Nadeeka Weerasinghe,43,Colombo,Male,Fixed Deposit,7
+10054,Anushka Rathnayake,47,Negombo,Female,Current,11
+10055,Sunil Kumara,79,Batticaloa,Female,Fixed Deposit,11
+10056,Sunil Samarasinghe,80,Jaffna,Female,Savings,9
+10057,Tharushi Silva,62,Matara,Male,Savings,10
+10058,Nimal Jayasinghe,52,Negombo,Female,Current,11
+10059,Lakshan Weerasinghe,70,Matara,Female,Fixed Deposit,6
+10060,Lakshan Rathnayake,80,Negombo,Male,Current,9
+10061,Lakshan De Alwis,57,Jaffna,Female,Current,6
+10062,Dilini De Alwis,42,Galle,Male,Current,10
+10063,Ruwan Samarasinghe,29,Anuradhapura,Male,Fixed Deposit,7
+10064,Ruwan Fernando,29,Matara,Other,Current,10
+10065,Chathura Jayasinghe,21,Anuradhapura,Female,Fixed Deposit,6
+10066,Sajith Samarasinghe,41,Negombo,Male,Savings,2
+10067,Anushka Wijesinghe,59,Matara,Female,Current,8
+10068,Tharushi Jayasinghe,73,Galle,Other,Savings,4
+10069,Kamal De Alwis,58,Jaffna,Male,Fixed Deposit,5
+10070,Kavindi De Alwis,59,Matara,Other,Fixed Deposit,3
+10071,Tharushi Samarasinghe,75,Anuradhapura,Female,Current,5
+10072,Rashmi De Alwis,35,Matara,Male,Current,5
+10073,Nadeeka Weerasinghe,55,Kandy,Female,Savings,5
+10074,Sajith Rajapaksha,22,Galle,Female,Fixed Deposit,4
+10075,Kavindi Fernando,23,Matara,Female,Current,5
+10076,Nadeeka Samarasinghe,64,Jaffna,Female,Savings,5
+10077,Amaya Hettiarachchi,35,Matara,Female,Current,4
+10078,Lakshan Silva,31,Kandy,Female,Current,4
+10079,Chathura Perera,31,Jaffna,Female,Fixed Deposit,5
+10080,Ruwan De Alwis,46,Negombo,Female,Current,3
+10081,Dilini Weerasinghe,58,Negombo,Male,Current,4
+10082,Nimal Bandara,76,Trincomalee,Other,Fixed Deposit,1
+10083,Chathura Silva,31,Galle,Other,Current,4
+10084,Kavindi Wijesinghe,42,Kandy,Male,Fixed Deposit,3
+10085,Kamal Hettiarachchi,79,Galle,Female,Current,3
+10086,Ruwan Silva,63,Kandy,Male,Current,4
+10087,Nadeeka Bandara,70,Galle,Female,Savings,1
+10088,Dilshan Kumara,44,Negombo,Other,Fixed Deposit,3
+10089,Dilshan Rathnayake,38,Matara,Female,Savings,4
+10090,Tharushi Rathnayake,58,Batticaloa,Female,Current,4
+10091,Rashmi Kumara,35,Negombo,Other,Savings,10
+10092,Tharushi De Alwis,38,Ratnapura,Female,Fixed Deposit,9
+10093,Anushka Rathnayake,31,Matara,Female,Current,9
+10094,Nadeeka Bandara,47,Matara,Male,Savings,10
+10095,Dilshan De Alwis,59,Batticaloa,Male,Savings,10
+10096,Amaya Hettiarachchi,37,Jaffna,Female,Fixed Deposit,10
+10097,Sarath Dias,64,Jaffna,Other,Current,8
+10098,Ruwan Samarasinghe,60,Matara,Male,Savings,10
+10099,Tharushi Rajapaksha,32,Ratnapura,Other,Current,9
+10100,Sajith Bandara,75,Trincomalee,Female,Fixed Deposit,7
